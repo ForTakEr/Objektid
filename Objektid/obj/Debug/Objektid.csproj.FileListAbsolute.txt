@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\Objektid\Objektid\Objektid\bin\Debug\Objektid.exe.config
+C:\Users\opilane\Desktop\Objektid\Objektid\Objektid\bin\Debug\Objektid.exe
+C:\Users\opilane\Desktop\Objektid\Objektid\Objektid\bin\Debug\Objektid.pdb
+C:\Users\opilane\Desktop\Objektid\Objektid\Objektid\obj\Debug\Objektid.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\Objektid\Objektid\Objektid\obj\Debug\Objektid.exe
+C:\Users\opilane\Desktop\Objektid\Objektid\Objektid\obj\Debug\Objektid.pdb

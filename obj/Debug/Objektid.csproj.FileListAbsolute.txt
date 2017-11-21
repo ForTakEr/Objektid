@@ -1,7 +1,0 @@
-C:\Users\opilane\source\repos\Objektid\Objektid\bin\Debug\Objektid.exe.config
-C:\Users\opilane\source\repos\Objektid\Objektid\bin\Debug\Objektid.exe
-C:\Users\opilane\source\repos\Objektid\Objektid\bin\Debug\Objektid.pdb
-C:\Users\opilane\source\repos\Objektid\Objektid\obj\Debug\Objektid.csprojResolveAssemblyReference.cache
-C:\Users\opilane\source\repos\Objektid\Objektid\obj\Debug\Objektid.csproj.CoreCompileInputs.cache
-C:\Users\opilane\source\repos\Objektid\Objektid\obj\Debug\Objektid.exe
-C:\Users\opilane\source\repos\Objektid\Objektid\obj\Debug\Objektid.pdb
